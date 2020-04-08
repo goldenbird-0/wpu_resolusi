@@ -1,5 +1,0 @@
-Bagaimana keadaan hari ini
-" Hari ini baik "
-" Hari ini tidak hujan "
-" Hari petir "
-" Banyak orang gla "
