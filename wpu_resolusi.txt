@@ -1,3 +1,5 @@
 Bagaimana keadaan hari ini
 " Hari ini baik "
 " Hari ini tidak hujan "
+" Hari hujan lebat "
+" Hari petir "
